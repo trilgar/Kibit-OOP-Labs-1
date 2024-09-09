@@ -9,6 +9,7 @@ public class Main {
 
         Student student1 = new Student(LevelOfDegree.MASTER, infoOfStudent1);
         student1.addExam(exam1);
+
         student1.addExam(exam2);
         student1.addExam(exam3);
 
